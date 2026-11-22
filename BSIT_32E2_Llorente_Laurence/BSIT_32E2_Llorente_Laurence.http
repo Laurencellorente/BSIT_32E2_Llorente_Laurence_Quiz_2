@@ -1,0 +1,6 @@
+@BSIT_32E2_Llorente_Laurence_HostAddress = http://localhost:5128
+
+GET {{BSIT_32E2_Llorente_Laurence_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
